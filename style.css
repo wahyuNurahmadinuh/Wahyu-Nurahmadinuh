@@ -321,6 +321,7 @@ a:is(:link, :active, :visited).active{
 }
 
 #salju{
-    height: 140%;
+    top: -70%;
+    height: 150%;
     opacity: 30%;
 }
