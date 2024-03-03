@@ -121,13 +121,13 @@ a:is(:link, :active, :visited).active{
 .sec h2{
     text-align: center;
     font-size: 3em;
-    color: #ffffff;
+    color: #003466;
     margin-bottom: 10px;
 }
 
 .sec p{
     font-size: 1em;
-    color: #ffffff;
+    color: #003466;
     font-weight: 300;
 }
 
